@@ -6,9 +6,9 @@ Students can manage profiles, upload resumes, apply for jobs, and track applicat
 
 🧑‍🤝‍🧑 Team Members
 
-Team Lead: K. Trishul – 2400030798 (Frontend)
+Team Lead: Konakalla Trishul – 2400030798 (Frontend)
 
-S. Devi Rishitha – 2400031440 (Testing and documentation)
+Srikakulam Rishitha – 2400031440 (Testing and documentation)
 
 Reddycherla Sai Spandana – 2400032106 (Backend)
 
