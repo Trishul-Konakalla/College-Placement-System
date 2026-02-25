@@ -10,7 +10,7 @@ Team Lead: K. Trishul – 2400030798 (Frontend)
 
 S. Devi Rishitha – 2400031440 (Testing and documentation)
 
-Reddycherla Sai Spandana – 2400032106
+Reddycherla Sai Spandana – 2400032106 (Backend)
 
 🛠 Tech Stack
 Frontend
