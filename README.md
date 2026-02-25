@@ -1,16 +1,56 @@
-# React + Vite
+📌 Project Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The College Placement Interaction System is a full-stack web application developed using React for the frontend and Spring Boot (Java 17) for the backend. The system provides a role-based platform for students and placement heads to manage placement activities digitally.
 
-Currently, two official plugins are available:
+Students can manage profiles, upload resumes, apply for jobs, and track application status, while placement heads can manage company drives, shortlist candidates, and view placement analytics.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🧑‍🤝‍🧑 Team Members
 
-## React Compiler
+Team Lead: K. Trishul – 2400030798 (Frontend)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+S. Devi Rishitha – 2400031440 (Testing and documentation)
 
-## Expanding the ESLint configuration
+Reddycherla Sai Spandana – 2400032106
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠 Tech Stack
+Frontend
+
+React
+
+Vite
+
+CSS
+
+Backend
+
+Spring Boot
+
+Java 17
+
+✨ Features
+
+Role-based login (Student / Placement Head)
+
+Student dashboard with job application tracking
+
+Resume upload and preview
+
+Placement head dashboard with analytics
+
+Company management (CRUD)
+
+Notifications system
+
+Responsive UI
+
+🚀 How to Run Frontend Locally
+npm install
+npm run dev
+
+🌐 Frontend Deployment
+
+https://gentle-griffin-23ebef.netlify.app/
+
+🎯 Objective
+
+To build a real-world full-stack placement management system that improves efficiency, transparency, and communication between students and placement departments.
